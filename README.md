@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # web-python2.7-simple
 
 Python 2.7 Sample Application
@@ -26,4 +27,10 @@ GitHubとEclipse Cheの共生は可能なのか・・・。
 # test
 GitHubとEclipse Cheの共生は可能なのか・・・。
 実験用リポジトリのため、中身はありませぬ。。
+>>>>>>> refs/heads/master
+=======
+# test
+GitHubとEclipse Cheの共生は可能なのか・・・。
+実験用リポジトリのため、中身はありませぬ。。
+aaaaaa
 >>>>>>> refs/heads/master
